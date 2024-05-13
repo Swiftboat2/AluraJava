@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Loops {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        double nota;
+        double nota  ;
         double mediaEvaluciones = 0;
 
         for (int i = 0; i < 3 ; i++) {
